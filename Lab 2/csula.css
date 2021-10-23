@@ -1,0 +1,34 @@
+#aboutBar{
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+.verticalBar{
+    color: gold;
+}
+.csulaLogo{
+    display: flex;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#navigationBar{
+    background-color: gold;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.title{
+    font-size: larger;
+    font-weight: bold;
+}
+.article{
+    text-indent: 25px;
+}
+footer{
+    font-size: smaller;
+    text-align: center;
+    color: white;
+    background-color: black;
+}

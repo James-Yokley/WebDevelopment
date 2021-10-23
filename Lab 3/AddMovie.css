@@ -1,0 +1,23 @@
+body{
+    border: 1px solid black;
+}
+.tableBlock{
+    display: table;
+    width: 80%;
+}
+.tableRow{
+    display: table-row-group;
+}
+.FieldName{
+    display: table-cell;
+    font-weight: bolder;
+    padding: 5px;
+}
+.inputField{
+    display: table-cell;
+    padding: 5px;
+}
+
+.buttons{
+    display: table-cell;
+}
